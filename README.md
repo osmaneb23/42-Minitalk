@@ -26,7 +26,7 @@ The goal of this project was to create a communication program between a client 
 - Limited to using only certain functions:
   - write, signal, sigemptyset, sigaddset, sigaction, kill
   - getpid, malloc, free, pause, sleep, usleep, exit
-  - ft_printf or any equivalent YOU coded
+  - My own printf
 
 ---
 
